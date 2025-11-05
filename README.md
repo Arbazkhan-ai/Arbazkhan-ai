@@ -3,10 +3,27 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1a1aff,100:00e6e6&text=Hi,+I'm+Arbaz+Khan!+🤖&fontAlign=50&fontAlignY=40&fontSize=45&fontColor=ffffff&animation=twinkling" />
 </p>
 
-<!-- 🧑‍💻 Profile Picture -->
+<!-- 💫 Profile Picture Section -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/Arbazkhan-ai" width="160" style="border-radius:50%;border:4px solid #00fff5;box-shadow:0 0 40px #00fff5;" />
+  <img src="https://avatars.githubusercontent.com/Arbazkhan-ai" 
+       width="200" 
+       style="border-radius: 50%; border: 5px solid #00fff5; box-shadow: 0 0 50px #00fff5, 0 0 100px #00e6e6; animation: pulse 3s infinite;" 
+       alt="Arbaz Khan" />
 </p>
+
+<p align="center">
+  <b><span style="color:#00fff5; font-size:20px;">✨ Arbaz Khan ✨</span></b><br>
+  <span style="color:#cfcfcf;">AI Developer | Innovating with Machine Learning & Vision</span>
+</p>
+
+<style>
+@keyframes pulse {
+  0% { box-shadow: 0 0 20px #00fff5, 0 0 40px #00e6e6; }
+  50% { box-shadow: 0 0 60px #00fff5, 0 0 120px #00e6e6; }
+  100% { box-shadow: 0 0 20px #00fff5, 0 0 40px #00e6e6; }
+}
+</style>
+
 
 <h2 align="center">
   <span style="color:#00fff5;">⚡ AI Developer | Machine Learning | Deep Learning | Computer Vision | NLP ⚡</span>
