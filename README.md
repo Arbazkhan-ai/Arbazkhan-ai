@@ -7,23 +7,26 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/Arbazkhan-ai" 
        width="200" 
-       style="border-radius: 50%; border: 5px solid #00fff5; box-shadow: 0 0 50px #00fff5, 0 0 100px #00e6e6; animation: pulse 3s infinite;" 
+       style="border-radius: 50%;
+              border: 5px solid #00fff5;
+              box-shadow: 0 0 40px #00fff5, 0 0 80px #00e6e6;
+              animation: pulse 3s infinite;"
        alt="Arbaz Khan" />
 </p>
 
 <p align="center">
-  <b><span style="color:#00fff5; font-size:20px;">✨ Arbaz Khan ✨</span></b><br>
-  <span style="color:#cfcfcf;">AI Developer | Innovating with Machine Learning & Vision</span>
+  <b><span style="color:#00fff5; font-size:22px;">✨ Arbaz Khan ✨</span></b><br>
+  <span style="color:#cfcfcf; font-size:16px;">AI Developer | Innovating with Machine Learning & Computer Vision</span>
 </p>
 
+<!-- 💡 Animation Styling -->
 <style>
 @keyframes pulse {
-  0% { box-shadow: 0 0 20px #00fff5, 0 0 40px #00e6e6; }
-  50% { box-shadow: 0 0 60px #00fff5, 0 0 120px #00e6e6; }
-  100% { box-shadow: 0 0 20px #00fff5, 0 0 40px #00e6e6; }
+  0% { box-shadow: 0 0 25px #00fff5, 0 0 50px #00e6e6; }
+  50% { box-shadow: 0 0 70px #00fff5, 0 0 140px #00e6e6; }
+  100% { box-shadow: 0 0 25px #00fff5, 0 0 50px #00e6e6; }
 }
 </style>
-
 
 <h2 align="center">
   <span style="color:#00fff5;">⚡ AI Developer | Machine Learning | Deep Learning | Computer Vision | NLP ⚡</span>
@@ -39,16 +42,17 @@
 ## 🧠 About Me  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
 </p>
 
 <p align="center">
   <b>Hello World! 👋 I'm <span style="color:#00fff5;">Arbaz Khan</span></b><br><br>
-  I'm a passionate <b>AI Developer</b> who loves building intelligent systems that make a real difference.  
-  From <b>machine learning models</b> to <b>deep learning research</b>, I explore how AI can make technology smarter and life easier.  
+  I’m a creative <b>Artificial Intelligence Developer</b> passionate about making machines think, see, and learn.  
+  From <b>Machine Learning</b> to <b>Deep Learning</b> and <b>Computer Vision</b>, I build AI systems that solve real-world challenges.  
   <br><br>
-  🚀 My goal: to merge <b>innovation</b> + <b>intelligence</b> = <b>impact</b> 💡  
-  ✨ Turning ideas into algorithms that understand, see, and learn.  
+  🚀 Passionate about <b>AI, ML, and Computer Vision</b><br>
+  🧠 Exploring <b>Django, Python, and full-stack web development</b> to build smart and scalable applications<br>
+  💡 I believe in turning <b>ideas into intelligence</b> that impacts the world 🌍  
 </p>
 
 ---
@@ -66,7 +70,7 @@
 ## 💼 Current Work  
 
 🌱 Learning more about **Transformers**, **LLMs**, and **Generative AI**  
-🧬 Working on **Gait Assessment with ST-TAGCN Model**  
+🧬 Working on **Gait Assessment using ST-TAGCN Model**  
 🤝 Open for collaborations on **AI, ML, and Computer Vision** projects  
 📫 Reach me: **arbazkhanofficial140@gmail.com**  
 
@@ -99,14 +103,6 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Arbazkhan-ai&theme=onestar&no-frame=true&margin-w=15&margin-h=15" />
-</p>
-
----
-
-## 📈 Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arbazkhan-ai&theme=react-dark&hide_border=true&area=true&radius=10" />
 </p>
 
 ---
