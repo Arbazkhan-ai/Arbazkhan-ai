@@ -1,32 +1,12 @@
-<!-- 🌌 Header Banner -->
+<!-- 🌌 Futuristic Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1a1aff,100:00e6e6&text=Hi,+I'm+Arbaz+Khan!+🤖&fontAlign=50&fontAlignY=40&fontSize=45&fontColor=ffffff&animation=twinkling" />
 </p>
 
-<!-- 💫 Profile Picture Section -->
+<!-- 🔮 Futuristic AI Animation -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/Arbazkhan-ai" 
-       width="200" 
-       style="border-radius: 50%;
-              border: 5px solid #00fff5;
-              box-shadow: 0 0 40px #00fff5, 0 0 80px #00e6e6;
-              animation: pulse 3s infinite;"
-       alt="Arbaz Khan" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" />
 </p>
-
-<p align="center">
-  <b><span style="color:#00fff5; font-size:22px;">✨ Arbaz Khan ✨</span></b><br>
-  <span style="color:#cfcfcf; font-size:16px;">AI Developer | Innovating with Machine Learning & Computer Vision</span>
-</p>
-
-<!-- 💡 Animation Styling -->
-<style>
-@keyframes pulse {
-  0% { box-shadow: 0 0 25px #00fff5, 0 0 50px #00e6e6; }
-  50% { box-shadow: 0 0 70px #00fff5, 0 0 140px #00e6e6; }
-  100% { box-shadow: 0 0 25px #00fff5, 0 0 50px #00e6e6; }
-}
-</style>
 
 <h2 align="center">
   <span style="color:#00fff5;">⚡ AI Developer | Machine Learning | Deep Learning | Computer Vision | NLP ⚡</span>
@@ -47,12 +27,12 @@
 
 <p align="center">
   <b>Hello World! 👋 I'm <span style="color:#00fff5;">Arbaz Khan</span></b><br><br>
-  I’m a creative <b>Artificial Intelligence Developer</b> passionate about making machines think, see, and learn.  
-  From <b>Machine Learning</b> to <b>Deep Learning</b> and <b>Computer Vision</b>, I build AI systems that solve real-world challenges.  
+  I’m a passionate <b>Artificial Intelligence Developer</b> focused on creating intelligent, data-driven systems.  
+  I explore <b>Machine Learning</b>, <b>Deep Learning</b>, <b>Computer Vision</b>, and <b>NLP</b> to build smart, human-like solutions.  
   <br><br>
   🚀 Passionate about <b>AI, ML, and Computer Vision</b><br>
-  🧠 Exploring <b>Django, Python, and full-stack web development</b> to build smart and scalable applications<br>
-  💡 I believe in turning <b>ideas into intelligence</b> that impacts the world 🌍  
+  🧠 Exploring <b>Django, Python, and full-stack web development</b> to build smart applications<br>
+  💡 Believing in turning <b>ideas into intelligence</b> and <b>code into impact</b> 🌍  
 </p>
 
 ---
@@ -61,7 +41,7 @@
 
 🔹 **Machine Learning & Deep Learning** — PyTorch, TensorFlow, Scikit-learn  
 🔹 **Computer Vision** — Object Detection, Pose Estimation, Image Processing  
-🔹 **NLP (Natural Language Processing)** — Text classification, Chatbots, Transformers  
+🔹 **NLP (Natural Language Processing)** — Transformers, Chatbots, Text Classification  
 🔹 **Web Development** — Django, React, Tailwind CSS  
 🔹 **Databases** — MySQL, SQLite, PostgreSQL  
 
@@ -69,10 +49,10 @@
 
 ## 💼 Current Work  
 
-🌱 Learning more about **Transformers**, **LLMs**, and **Generative AI**  
-🧬 Working on **Gait Assessment using ST-TAGCN Model**  
-🤝 Open for collaborations on **AI, ML, and Computer Vision** projects  
-📫 Reach me: **arbazkhanofficial140@gmail.com**  
+🌱 Learning about **Transformers**, **LLMs**, and **Generative AI**  
+🧬 Researching **Gait Assessment using ST-TAGCN Model**  
+🤝 Open to collaborations on **AI, ML, and Computer Vision** projects  
+📫 Reach me at **arbazkhanofficial140@gmail.com**
 
 ---
 
